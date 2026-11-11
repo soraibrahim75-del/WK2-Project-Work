@@ -1,4 +1,16 @@
 # WK2-Project-Work
+# NETWORKWALKS
+
+# LETTER OF AUTHORIZATION FOR CYBERSECURITY TESTING
+| Field | Detail |
+|---|---|
+| Pentester Name (Cybersecurity Professional) | Ibrahim Sora |
+| Program/Batch | B084-Networkwalks |
+| Date | 11 November 2026 |
+| Modules completed | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
+| Client/Target | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
+| Permission secured from client? | Yes |
+| Phases covered | Phase 1: Reconnaissance & Footprinting<br>Phase 2: Scanning & Network Discovery<br>Phase 3-5: In Progress |
 # NETWORKWALKS SECURITY ASSESSMENT REPORT
 
 **Project:** Network Reconnaissance and Security Assessment  
